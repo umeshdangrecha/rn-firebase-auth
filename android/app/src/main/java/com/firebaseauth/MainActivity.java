@@ -1,4 +1,4 @@
-package com.firebaseauth;
+package com.patidar.umesh.firebaseauth;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

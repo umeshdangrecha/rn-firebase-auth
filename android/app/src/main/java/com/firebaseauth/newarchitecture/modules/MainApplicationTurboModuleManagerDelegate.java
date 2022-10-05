@@ -1,4 +1,4 @@
-package com.firebaseauth.newarchitecture.modules;
+package com.patidar.umesh.firebaseauth.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

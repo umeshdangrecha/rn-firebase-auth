@@ -1,4 +1,4 @@
-package com.firebaseauth.newarchitecture;
+package com.patidar.umesh.firebaseauth.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.firebaseauth.BuildConfig;
-import com.firebaseauth.newarchitecture.components.MainComponentsRegistry;
-import com.firebaseauth.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.patidar.umesh.firebaseauth.BuildConfig;
+import com.patidar.umesh.firebaseauth.newarchitecture.components.MainComponentsRegistry;
+import com.patidar.umesh.firebaseauth.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

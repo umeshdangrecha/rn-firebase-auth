@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018330569406",
+    "project_id": "rn-firebase-auth-91f48",
+    "storage_bucket": "rn-firebase-auth-91f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018330569406:android:f835dc30eac85da75fdcef",
+        "android_client_info": {
+          "package_name": "com.patidar.umesh.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018330569406-gvjrgedlqfcm7gvsfrlu4gfbuq64eirt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patidar.umesh.firebaseauth",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1018330569406-430adkg61p807v0p7018sdb2a8jbk0me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu0blOUYW0wl15QzVajFbioIDGAtQEWCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018330569406-430adkg61p807v0p7018sdb2a8jbk0me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
